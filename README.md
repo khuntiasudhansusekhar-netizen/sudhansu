@@ -1,4 +1,4 @@
 # sudhansu
 This my first project.
-<br>i am the author
+<br>i am the author name ("sudhansu)
 
